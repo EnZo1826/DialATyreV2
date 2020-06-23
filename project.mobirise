@@ -6179,7 +6179,7 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": "",
                 "title": ""
               },
@@ -6202,7 +6202,7 @@
                 "customStyleSale": "display-7",
                 "customStyleTags": "display-4",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
