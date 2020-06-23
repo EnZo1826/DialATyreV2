@@ -4901,14 +4901,34 @@ section.lazy-placeholder:after {
     left: -1rem;
   }
 }
-.cid-s2JcVPKqdX {
+.cid-s2KxOhpm89 {
+  overflow: hidden !important;
   background-image: url("../../../assets/images/momocover.jpg");
 }
-.cid-s2JcVPKqdX .mbr-overlay {
-  background: #879a9f;
+.cid-s2KxOhpm89 .animated-element {
+  color: #efefef;
 }
-.cid-s2JcVPKqdX .mbr-section-title {
-  letter-spacing: -1px;
+.cid-s2KxOhpm89 .img-block {
+  -webkit-align-self: center;
+  align-self: center;
+}
+.cid-s2KxOhpm89 .mbr-section-subtitle {
+  color: #bbbbbb;
+}
+@media (min-width: 992px) {
+  .cid-s2KxOhpm89 .img-block {
+    padding-right: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s2KxOhpm89 .mbr-figure {
+    margin-top: 1rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-s2KxOhpm89 .img-block {
+    padding-bottom: 2rem;
+  }
 }
 .cid-s2JgGS1AFQ {
   padding-top: 45px;
